@@ -1,0 +1,3 @@
+Hello, this is my first file handling program.
+Internship Task 1 completed.
+This line is added to modify the file.
